@@ -14,3 +14,5 @@ The complete MEAN stack series.
 Make sure everything installed, especially the MongoDB :::::::::
 
 ## STRUCTURE OF BACKEND IMPRESSUMS
+
+<img src="https://devdactic.com/wp-content/uploads/2015/11/rest_auth_backend_files.png">
